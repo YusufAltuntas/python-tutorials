@@ -1,0 +1,21 @@
+Darcey Parke             Darcey                   Fizik                    58.0                     kaldi
+Amara Allen Elois        Amara                    Kimya Müh                69.4                     kaldi
+Brynn Thoma              Brynn                    Kimya Müh                75.2                     kaldi
+James Harpe              James                    Bilgisayar Müh           75.8                     kaldi
+John Hunte               John                     Fizik                    61.2                     kaldi
+William Hussai           William                  Fizik Müh                69.0                     kaldi
+Richard Jef              Richard                  Matematik                61.2                     kaldi
+Charles Booth Hamis      Charles                  Bilgisayar Müh           62.4                     kaldi
+Daniel Porte             Daniel                   Fizik Müh                68.0                     kaldi
+Martin Han               Martin                   Bilgisayar Müh           79.3                     kaldi
+Kenneth Roger            Kenneth                  Fizik                    59.7                     kaldi
+Tim Jac                  Tim                      Matematik Müh            72.1                     kaldi
+Edward Frankie Adam      Edward                   Fizik                    86.8                     kaldi
+Ronald Tat               Ronald                   Bilgisayar Müh           68.8                     kaldi
+Anthony Caspe            Anthony                  Fizik Müh                64.8                     kaldi
+Jo Kha                   Jo                       Matematik Müh            47.8                     kaldi
+Bev Cunningha            Bev                      Kimya Müh                67.8                     kaldi
+Amalia Atkinso           Amalia                   Fizik Müh                70.8                     kaldi
+Marley Sienna Robertso   Marley                   Bilgisayar Müh           87.3                     kaldi
+Jemima Fo                Jemima                   Matematik Müh            58.3                     kaldi
+Taylor Evan              Taylor                   Kimya Müh                72.9                     kaldi

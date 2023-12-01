@@ -1,0 +1,45 @@
+Eleanor Taylo            Eleanor                  Fizik                    78.4                     gecti
+Lyla Dawso               Lyla                     Matematik                89.5                     gecti
+Cora Gill Marya          Cora                     Matematik Müh            83.4                     gecti
+Jorgie Jame              Jorgie                   Bilgisayar Müh           79.7                     gecti
+Keira Kha                Keira                    Bilgisayar Müh           76.5                     gecti
+Scarlett Ston            Scarlett                 Matematik                89.5                     gecti
+Arabella Wallac          Arabella                 Bilgisayar Müh           74.8                     gecti
+Darcey Wood              Darcey                   Fizik                    77.9                     gecti
+Robin Spence             Robin                    Matematik                94.9                     gecti
+Jamie Dawso              Jamie                    Fizik Müh                77.9                     gecti
+Val Kau                  Val                      Matematik Müh            76.3                     gecti
+Morgan Pearso            Morgan                   Bilgisayar Müh           77.9                     gecti
+Bailey Gill Rive         Bailey                   Fizik                    85.2                     gecti
+Alexis Hamilto           Alexis                   Fizik                    77.9                     gecti
+Shay Smit                Shay                     Matematik Müh            83.0                     gecti
+Silver Barke             Silver                   Matematik                79.7                     gecti
+Brook Kau                Brook                    Matematik Müh            73.0                     gecti
+Robert Harpe             Robert                   Kimya                    82.6                     gecti
+Michael Ale              Michael                  Kimya Müh                81.8                     gecti
+David Knigh              David                    Bilgisayar Müh           77.9                     gecti
+Joseph Dillon Spence     Joseph                   Matematik Müh            89.5                     gecti
+Thomas James Zachar      Thomas                   Gıda Müh                 81.3                     gecti
+Christopher Dawso        Christopher              Bilgisayar Müh           79.7                     gecti
+Paul Rufus Pearso        Paul                     Matematik                81.2                     gecti
+Mark Conor Smit          Mark                     Kimya Müh                90.6                     gecti
+Donald Kenneth Eğilme    Donald                   Kimya Müh                86.0                     gecti
+Steven Johnso            Steven                   Fizik                    80.7                     gecti
+George Asto              George                   Kimya Müh                73.8                     gecti
+Brian Joh                Brian                    Kimya                    80.8                     gecti
+Kevin Maxwell Kenned     Kevin                    Matematik                72.5                     gecti
+Jason Roger              Jason                    Fizik Müh                72.5                     gecti
+Glen Franci              Glen                     Fizik                    80.4                     gecti
+Lee Fletche              Lee                      Bilgisayar Müh           73.1                     gecti
+Brook Dunca              Brook                    Bilgisayar Müh           88.7                     gecti
+Phoenix Phillip          Phoenix                  Matematik                77.8                     gecti
+Alicia Jody Pearso       Alicia                   Fizik                    79.2                     gecti
+Ariella Hamilto          Ariella                  Fizik                    74.5                     gecti
+Rose Jasmine Franci      Rose                     Matematik                82.2                     gecti
+Lara Mccarth             Lara                     Kimya Müh                79.0                     gecti
+Blossom Coope            Blossom                  Bilgisayar Müh           78.6                     gecti
+Stella Thompso           Stella                   Fizik                    89.5                     gecti
+Ariella Davie            Ariella                  Fizik Müh                71.0                     gecti
+Lily Rose Kell           Lily                     Matematik                78.8                     gecti
+Gabe Well                Gabe                     Bilgisayar Müh           73.8                     gecti
+Jamie Henderso           Jamie                    Matematik                72.4                     gecti
